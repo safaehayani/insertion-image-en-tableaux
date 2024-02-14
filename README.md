@@ -19,4 +19,7 @@ Définissez le nombre de colonnes"3", leurs noms"id,image_name,image_data", type
 5 Accédez au fichier via votre navigateur :
 Ouvrez votre navigateur web et accédez à l'URL locale correspondant au fichier que vous avez placé. Par exemple, si vous avez placé votre fichier dans htdocs avec XAMPP, l'URL pourrait ressembler à http://localhost/insertion-image-en-tableaux-main/
 
-6 Vérifiez le fonctionnement du fichier PHP :
+6 Vérifiez le fonctionnement du fichier PHP : Assurez-vous que le fichier PHP s'affiche correctement dans votre navigateur sans erreurs. Si des erreurs surviennent, vérifiez le code PHP et corrigez les problèmes ou connecter avec moi.
+
+7 Modifiez le fichier selon vos besoins : Ouvrez le fichier PHP dans un éditeur de texte ou un environnement de développement PHP, puis apportez les modifications nécessaires. Sauvegardez et rafraîchissez le navigateur : Après avoir apporté des modifications, sauvegardez le fichier et rafraîchissez votre navigateur pour voir les changements.
+
