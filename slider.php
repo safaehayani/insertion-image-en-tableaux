@@ -145,7 +145,7 @@ if ($result->num_rows > 0) {
               <div class="card">
                   <img src="data:image/*;base64,' . base64_encode($imageDataPrev) . '" alt="' . $imageNamePrev . '">
                   <p>' . $imageNamePrev . '</p>
-                  <button class="send-button" onclick="alert(\'Image envoyée !\')"> <a href="http://localhost/test/all_image.php" class="btn btn-primary">Envoyer</a></button>
+                  <button class="send-button" onclick="alert(\'Image envoyée !\')"> <a href="http://localhost/insertion-image-en-tableaux-main/all_image.php" class="btn btn-primary">Envoyer</a></button>
               </div>';
 } else {
     echo "Image précédente non trouvée.";
