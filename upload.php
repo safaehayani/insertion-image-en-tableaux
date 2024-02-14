@@ -26,7 +26,7 @@ if ($_FILES['image']['error'] == UPLOAD_ERR_OK) {
         echo "Image uploaded successfully.";
 
         // Redirection vers la page souhaitée après le traitement
-        header('Location: http://localhost/test/slider.php');
+        header('Location: http://localhost/insertion-image-en-tableaux-main/slider.php');
         exit; // Assure que le script se termine après la redirection
     } else {
         echo "Error: " . $sql . "<br>" . $stmt->error;
